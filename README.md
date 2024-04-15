@@ -27,4 +27,4 @@ You need to have the following installed in your machine:
 5. It will generate and export the report in folder `report`
 
 ### Sample report
-![Mochawesome-Report](Report/assets/Report mocha.png)
+![Mochawesome-Report](https://github.com/meimanhulu/DS_Supertest_7_Meiman/blob/main/Report/assets/Report%20mocha.png)
