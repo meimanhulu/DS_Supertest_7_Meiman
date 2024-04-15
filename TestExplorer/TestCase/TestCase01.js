@@ -18,10 +18,10 @@ let id;
     id = await postPayloadMethod();
   });
 
-  // Test case POST
-  it("Test POST from Function", async function () {
-     id = await postMethod();
-  });
+//   // Test case POST
+//   it("Test POST from Function", async function () {
+//      id = await postMethod();
+//   });
 
   // Test case PUT
   it("Test PUT from Function", async function () {

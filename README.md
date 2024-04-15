@@ -27,4 +27,4 @@ You need to have the following installed in your machine:
 5. It will generate and export the report in folder `report`
 
 ### Sample report
-![Mochawesome-Report] 
+![Mochawesome-Report] (https://github.com/umidewi/DSHW_APIAutomation/blob/main/Report/pass_February_19_2024-TestCase01-report.html)
